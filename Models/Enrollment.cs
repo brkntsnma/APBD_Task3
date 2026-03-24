@@ -1,4 +1,4 @@
-namespace LinqConsoleLab.EN.Models;
+namespace APBD_TASK_3.Models;
 
 public sealed class Enrollment
 {

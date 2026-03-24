@@ -1,6 +1,6 @@
 using System.Text;
-using LinqConsoleLab.EN.Data;
-using LinqConsoleLab.EN.Exercises;
+using APBD_TASK_3.Data;
+using APBD_TASK_3.Exercises;
 
 Console.OutputEncoding = Encoding.UTF8;
 UniversityData.Seed();
